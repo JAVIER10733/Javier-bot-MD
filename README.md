@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://pin.it/6zH0AFJji" width="300"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrktRg0PRglErwIXs59DQP57BciALhFk-4fB525BWSWg&s" width="300"/>
 </p>
 
 <p align="center">
