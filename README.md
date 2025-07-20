@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tuusuario/javier-bot-md/main/media/bot_image.gif" width="300"/>
+  <img src="https://pin.it/6zH0AFJji" width="300"/>
 </p>
 
 <p align="center">
@@ -60,7 +60,7 @@ javier-bot-md/
 └── README.md
 
 
-## instalacion
+# instalacion
 
 ```bash
 git clone https://github.com/JAVIER10733/javier-bot-md
